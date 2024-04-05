@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "287725636744",
+    "project_id": "socialskills-66a88",
+    "storage_bucket": "socialskills-66a88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287725636744:android:7e2312254a8272599da33d",
+        "android_client_info": {
+          "package_name": "com.example.socialskills"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjTTTCJoCLNYXXYrkoDUWZJRSlBTwwB6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
